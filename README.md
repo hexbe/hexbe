@@ -19,6 +19,7 @@ I'm a developer who loves working on cool web stuff.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
@@ -30,6 +31,12 @@ I'm a developer who loves working on cool web stuff.
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+
+---
+
+### 🗄️ Servers
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 
 ---
 
