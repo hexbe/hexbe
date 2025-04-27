@@ -5,7 +5,7 @@ I'm a developer who loves working on cool web stuff.
 ---
 
 ### 🔥 My GitHub Stats
-![Hexbe's GitHub stats](https://github-readme-stats-one-tau-83.vercel.app/api?username=hexbe&hide=contribs,prs&show_icons=true&theme=tokyonight)
+![Hexbe's GitHub stats](https://github-readme-stats-one-tau-83.vercel.app/api?username=hexbe&show_icons=true&theme=tokyonight)
 
 ---
 
