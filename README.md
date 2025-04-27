@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @hexbe
 
-I'm a developer who loves working on **C#**, **C++**, **game development**, **reverse engineering**, and **cool web stuff**.
+I'm a developer who loves working on cool web stuff.
 
 ---
 
