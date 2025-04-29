@@ -5,10 +5,8 @@ I'm a developer who loves digging into how things work. I spend a lot of time re
 ---
 
 ### 🔥 My GitHub Stats
-![Hexbe's GitHub stats](https://github-readme-stats-one-tau-83.vercel.app/api?username=hexbe&show_icons=true&theme=tokyonight)
-
-# Personal Projects
-![Most Used Languages](https://github-readme-stats-one-tau-83.vercel.app/api/top-langs/?username=hexbe&count_private=true&layout=compact&theme=tokyonight)
+![Hexbe's GitHub stats](https://github-readme-stats-chi-orcin.vercel.app/api?username=hexbe&show_icons=true&theme=tokyonight)
+![Most Used Languages](https://github-readme-stats-chi-orcin.vercel.app/api/top-langs/?username=hexbe&count_private=true&layout=compact&theme=tokyonight)
 
 ---
 
