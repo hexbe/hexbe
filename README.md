@@ -6,7 +6,7 @@ I'm a developer who loves digging into how things work. I spend a lot of time re
 
 ### 🔥 My GitHub Stats
 ![Hexbe's GitHub stats](https://github-readme-stats-chi-orcin.vercel.app/api?username=hexbe&show_icons=true&theme=tokyonight)
-![Most Used Languages](https://github-readme-stats-chi-orcin.vercel.app/api/top-langs/?username=hexbe&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,hexgen)
+![Most Used Languages](https://github-readme-stats-chi-orcin.vercel.app/api/top-langs/?username=hexbe&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats,forgotten-children,hexgen,hexbe-modules)
 
 ---
 
