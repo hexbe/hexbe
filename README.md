@@ -10,9 +10,6 @@ I'm a developer who loves digging into how things work. I spend a lot of time re
 # Personal Projects
 ![Most Used Languages](https://github-readme-stats-one-tau-83.vercel.app/api/top-langs/?username=hexbe&count_private=true&layout=compact&theme=tokyonight)
 
-# Hexbe Studios
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hexbe-studios)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 🛠️ Languages
