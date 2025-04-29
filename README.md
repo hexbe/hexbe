@@ -11,6 +11,7 @@ I'm a developer who loves digging into how things work. I spend a lot of time re
 ![Most Used Languages](https://github-readme-stats-one-tau-83.vercel.app/api/top-langs/?username=hexbe&count_private=true&layout=compact&theme=tokyonight)
 
 # Hexbe Studios
+![Most Used Languages](https://github-readme-stats-one-tau-83.vercel.app/api/top-langs/?username=hexbestudios&count_private=true&layout=compact&theme=tokyonight)
 
 ---
 
