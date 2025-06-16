@@ -1,20 +1,8 @@
 # 👋 Hi, I'm @hexbe
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Reverse+Engineer+%26+Developer;Security+Researcher;Full-Stack+Developer;Always+Learning%2C+Always+Curious" alt="Typing SVG" />
+  <i>I'm a developer who loves digging into how things work. I spend a lot of time reverse engineering software, breaking things apart, and figuring out how to make (or break) systems. Along the way, I've picked up experience in web development, both front-end and back-end, and a bit of penetration testing too. Always curious, always learning.</i>
 </div>
-
-## 🚀 About Me
-
-I'm a passionate developer who thrives on understanding the inner workings of complex systems. My journey spans:
-
-- 🔍 **Reverse Engineering**: Deconstructing software to understand its core mechanics
-- 🛡️ **Security Research**: Exploring vulnerabilities and strengthening system defenses  
-- 💻 **Full-Stack Development**: Building robust web applications from frontend to backend
-- 🧪 **Penetration Testing**: Ethical hacking to identify and fix security weaknesses
-
-*"The best way to understand something is to break it down and build it back up."*
-
 ---
 
 ## 📊 GitHub Analytics
@@ -141,8 +129,4 @@ I'm a passionate developer who thrives on understanding the inner workings of co
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=hexbe&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</i>
 </div>
