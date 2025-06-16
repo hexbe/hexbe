@@ -1,7 +1,7 @@
 # 👋 Hi, I'm @hexbe
 
 <div align="center">
-  <i>I'm a developer who loves digging into how things work. I spend a lot of time reverse engineering software, breaking things apart, and figuring out how to make (or break) systems. Along the way, I've picked up experience in web development, both front-end and back-end, and a bit of penetration testing too. Always curious, always learning.</i>
+  I'm a developer who loves digging into how things work. I spend a lot of time reverse engineering software, breaking things apart, and figuring out how to make (or break) systems. Along the way, I've picked up experience in web development, both front-end and back-end, and a bit of penetration testing too. Always curious, always learning.
 </div>
 
 ## 📊 GitHub Analytics
