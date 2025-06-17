@@ -105,17 +105,6 @@
 
 </div>
 
----
-
-## 🎯 Current Focus
-
-- 🔐 Advanced reverse engineering techniques
-- 🌐 Modern web application security
-- 🎮 Game development and engine architecture
-- 🤖 AI/ML integration in security tools
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
