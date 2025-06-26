@@ -11,9 +11,9 @@
   <img height="180em" src="https://github-readme-stats-chi-orcin.vercel.app/api/top-langs/?username=hexbe&theme=tokyonight&layout=compact&exclude_repo=github-readme-stats"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hexbe&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
+<a style="text-align: center;" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=hexbe&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
+
 
 ---
 
