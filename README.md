@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=hexbe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="github-readme-streak-stats-84mw3af7i-hexbe-studios.vercel.app/?user=hexbe&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
