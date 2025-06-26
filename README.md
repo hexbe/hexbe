@@ -19,9 +19,9 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <div align="center">
 
 ![C#](https://img.shields.io/badge/C%23-239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -35,7 +35,7 @@
 
 </div>
 
-### 🌐 Web Technologies
+### Web Technologies
 <div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -46,7 +46,7 @@
 
 </div>
 
-### 🚀 Frameworks & Libraries
+### Frameworks & Libraries
 <div align="center">
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -57,7 +57,7 @@
 
 </div>
 
-### 🗄️ Databases & Storage
+### Databases & Storage
 <div align="center">
 
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -69,7 +69,7 @@
 
 </div>
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 <div align="center">
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -79,7 +79,7 @@
 
 </div>
 
-### 🛠️ Tools & Environment
+### Tools & Environment
 <div align="center">
 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visualstudio&logoColor=white)
@@ -92,7 +92,7 @@
 
 </div>
 
-### 🖥️ Operating Systems
+### Operating Systems
 <div align="center">
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white)
@@ -100,18 +100,10 @@
 
 </div>
 
-### 🎮 Game Development
+### Game Development
 <div align="center">
 
 ![OpenGL](https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge)
-
-</div>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hexbe)
 
 </div>
 
